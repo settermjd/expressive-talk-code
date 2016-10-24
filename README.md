@@ -4,4 +4,4 @@ This project provides the code to my talk: [Building Powerful and Scaleable Micr
 
 Each branch provides the code for a specific step in the evolution of the code shown throughout the talk, in alphabetical order. If you’re interested in working with the code, whilst working through the talk, then for each section, work with the respective branch. 
 
-If you have any questions about the code, or the talk, you can either tweet me: @settermjd, or email me: [matthew@matthewsetter.com].
+If you have any questions about the code, or the talk, you can either tweet me: [@settermjd](https://twitter.com/@settermjd), or email me: matthew@matthewsetter.com.
